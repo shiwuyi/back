@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manage"]=self["webpackChunkvue_manage"]||[]).push([[50],{1050:function(e,n,a){a.r(n),a.d(n,{default:function(){return f}});var u=function(){var e=this,n=e._self._c;return n("div",{staticClass:"hello"},[e._v(" 商品管理 ")])},l=[],t={name:"MallName"},s=t,r=a(1001),c=(0,r.Z)(s,u,l,!1,null,"597f7932",null),f=c.exports}}]);
+//# sourceMappingURL=50.3dc5cb00.js.map
